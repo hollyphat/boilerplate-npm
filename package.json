@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Fatai Olatunji",
 	"description": "A boilerplate for staring my nodejs journey",
-	"keywords": [ "descriptive", "related", "words" ],
+	"keywords": [ "descriptive", "related", "words","freecodecamp" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
